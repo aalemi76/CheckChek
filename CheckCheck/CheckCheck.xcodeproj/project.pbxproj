@@ -10,6 +10,7 @@
 		AD0A22F123C71749000EE824 /* DataModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD0A22F023C71749000EE824 /* DataModel.swift */; };
 		AD16971423BDD7F30002158C /* ChecklistItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD16971323BDD7F30002158C /* ChecklistItem.swift */; };
 		AD16971623BE11BE0002158C /* ItemDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD16971523BE11BE0002158C /* ItemDetailViewController.swift */; };
+		AD1DF0AB23D891EE00E95F87 /* IconPickerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD1DF0AA23D891EE00E95F87 /* IconPickerViewController.swift */; };
 		AD5E5D4623BB97BB00299BC0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD5E5D4523BB97BB00299BC0 /* AppDelegate.swift */; };
 		AD5E5D4823BB97BB00299BC0 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD5E5D4723BB97BB00299BC0 /* SceneDelegate.swift */; };
 		AD5E5D4A23BB97BB00299BC0 /* ChecklistViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD5E5D4923BB97BB00299BC0 /* ChecklistViewController.swift */; };
@@ -25,6 +26,7 @@
 		AD0A22F023C71749000EE824 /* DataModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataModel.swift; sourceTree = "<group>"; };
 		AD16971323BDD7F30002158C /* ChecklistItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChecklistItem.swift; sourceTree = "<group>"; };
 		AD16971523BE11BE0002158C /* ItemDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemDetailViewController.swift; sourceTree = "<group>"; };
+		AD1DF0AA23D891EE00E95F87 /* IconPickerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = IconPickerViewController.swift; path = CheckCheck/IconPickerViewController.swift; sourceTree = SOURCE_ROOT; };
 		AD5E5D4223BB97BB00299BC0 /* CheckCheck.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CheckCheck.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		AD5E5D4523BB97BB00299BC0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		AD5E5D4723BB97BB00299BC0 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -97,6 +99,7 @@
 				AD7AD53023C23B5C00231FDA /* AllListsViewController.swift */,
 				AD7AD53223C2518F00231FDA /* Checklist.swift */,
 				ADD2A40C23C5F64E0020309C /* ListDetailViewController.swift */,
+				AD1DF0AA23D891EE00E95F87 /* IconPickerViewController.swift */,
 			);
 			path = "All List Scene";
 			sourceTree = "<group>";
@@ -175,6 +178,7 @@
 				AD16971623BE11BE0002158C /* ItemDetailViewController.swift in Sources */,
 				AD5E5D4A23BB97BB00299BC0 /* ChecklistViewController.swift in Sources */,
 				AD7AD53123C23B5C00231FDA /* AllListsViewController.swift in Sources */,
+				AD1DF0AB23D891EE00E95F87 /* IconPickerViewController.swift in Sources */,
 				AD5E5D4623BB97BB00299BC0 /* AppDelegate.swift in Sources */,
 				AD5E5D4823BB97BB00299BC0 /* SceneDelegate.swift in Sources */,
 				ADD2A40D23C5F64E0020309C /* ListDetailViewController.swift in Sources */,
